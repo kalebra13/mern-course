@@ -1,0 +1,6 @@
+{
+  "port": 5000,
+  "jwtSecret": "kalebra versh mern",
+  "mongoUri": "mongodb+srv://kalebra:q1478520@cluster0.am5tw.azure.mongodb.net/app?retryWrites=true&w=majority",
+  "baseUrl": "http://localhost:5000"
+}
